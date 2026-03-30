@@ -82,8 +82,7 @@ and as for the data manipulation, we used MongoDB
  #####Small Mock Interview Video
 
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="Mock interview Edited.mp4" type="Mock interview Edited.mp4">
 </video>
 
 
