@@ -28,7 +28,7 @@ Cape Peninsula University of Technology
   
   DIPLOMA IN INFORMATICS AND COMMUNICATIONS TECHNOLOGY
  
- ## Techical Skills
+ ## Technical Skills
  
  - Java
  - Python
