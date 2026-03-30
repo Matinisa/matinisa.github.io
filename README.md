@@ -81,4 +81,7 @@ and as for the data manipulation, we used MongoDB
 
 
 
+[![Video Title](image_thumbnail.jpg)](Mock interview Edited.mp4)
+
+
  
