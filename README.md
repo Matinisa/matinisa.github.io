@@ -83,6 +83,7 @@ and as for the data manipulation, we used MongoDB
 
 <video width="320" height="240" controls>
   <source src="Mock interview Edited.mp4" type="video/mp4">
+ Click for video
 </video>
 
 
