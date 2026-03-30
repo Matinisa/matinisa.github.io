@@ -79,9 +79,11 @@ and as for the data manipulation, we used MongoDB
  which allowed community members who wanted to volunteer on the cleaning the community
  to register on the website for recruitment purposes
 
+##### My short Mock-interview Video
 
-
-[![Video Title](image_thumbnail.jpg)](Mock interview Edited.mp4)
+<video width="320" height="240" controls>
+  <source src="Mock interview Edited.mp4" type="video/mp4">
+</video>
 
 
  
