@@ -13,7 +13,7 @@
 
 
 ## Education
-***Hight School:***
+***High School:***
 
  Njeyeza High School, (2019-2021)
  
