@@ -50,7 +50,7 @@ Cape Peninsula University of Technology
  
  ## Experience
 
- *** Campus Smart Attendance System ***
+ ***Campus Smart Attendance System |***
  ***March 2026-present***
  ##### CPUT | Third year undergraduate Group project
 
