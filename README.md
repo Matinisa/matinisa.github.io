@@ -50,7 +50,7 @@ Cape Peninsula University of Technology
  
  ## Experience
 
- *** Campus Attendance System ***
+ *** Campus Smart Attendance System ***
  ***March 2026-present***
  ##### CPUT | Third year undergraduate Group project
 
@@ -93,6 +93,9 @@ and as for the data manipulation, we used MongoDB
  CSS for the content design and JS for functionality. As i was specializing with the back-end part of the system
  which includes the design of the database, i decided to use the springboot framework, since it support and allows
  some system testing techniques.
+
+ ##### Here's a Mock-interview Video link
+ [![Mock-Interview Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/Eldk0j9GhsY)
 
 
 
