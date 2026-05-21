@@ -58,6 +58,17 @@ Cape Peninsula University of Technology
  them manually. So the system operate by using RFID card for each student that whenever before entering a class, in order to get access, 
  they must tap their RFID card to the attendance system which marks them presents after tapping. The system components configuration was programed 
  behind the usage of C++, using the arduino IDE, along with necesary components which included ESP32, RFID card and some Duno Jumper wires for connection
+
+  ***Campus Smart Clinic System |***
+ ***February 2026-November 2026***
+ ##### CPUT | Third year undergraduate Group project
+
+ The campus smart clinic system, go by the name "Pulse-up", is a mobile application for student
+  which enables students to book appointments to their on-campus clinic which minimises the physical quering for prescribed remedies 
+  and some short medical sessions, instead, everything is done through the application. The application consist of student side and admin
+   side, where-as the student side is where appointments booking are done, and the admin side, is where the booked appointments are managed.
+   The front-end of the system was creates using "***HTML*** for the page structure, "***CSS***" for the look and feel of the website and
+    "***JavaScript***" for page inter-action. The framework used for front-end was "***BootStrap***" which provide necessary CSS and HTML elements. As for the back-end, members of the back-end decided to use "***Java***" programming language, which was chosen because of the ability to effectively communicate with the database. As for frame work, we used "***Java Springboot***" which is used handle complex configurations automatically. For the overal development of the system, as for an IDE, we used "***VS Code***" as it supports a majority of programming language and necessary plug-ins.
  
  ***ModuleTracker and Mark Calculator |***
  ***Feb 2025 - November 2025***
