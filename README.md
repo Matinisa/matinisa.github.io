@@ -58,7 +58,7 @@ Cape Peninsula University of Technology
  them manually. So the system operate by using RFID card for each student that whenever before entering a class, in order to get access, 
  they must tap their RFID card to the attendance system which marks them presents after tapping. The system components configuration was programed 
  behind the usage of C++, using the arduino IDE, along with necesary components which included ESP32, RFID card and some Duno Jumper wires for connection
- <img src="" width="200">
+ <img src="https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/IoT%20work%20progress%202.jpeg?raw=true" width="200">
 
   ***Campus Smart Clinic System |***
  ***February 2026-November 2026***
