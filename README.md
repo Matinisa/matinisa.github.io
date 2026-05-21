@@ -90,7 +90,8 @@ and as for the data manipulation, we used MongoDB
  named Figma, which was facilitated through the involvement of user-story as i was only
  assigned with designing the wireframes only due to the exceptional figma literal skillset.
 
- The following click-able link will take you to the figma page, where the prototyping of the design happens, which include field and button interaction, as it does not include bussiness logic functionality: [Pizza System Figma Wireframe]([https://openai.com](https://www.figma.com/proto/IwICeRmaDRD2SgrsFnntPZ/ISA-4th-term-assignment?node-id=85-5&starting-point-node-id=85%3A5))
+ The following click-able link will take you to the figma page, where the prototyping of the design happens, which include field and button interaction, as it does not include bussiness logic functionality:
+[OpenAI](https://www.figma.com/proto/IwICeRmaDRD2SgrsFnntPZ/ISA-4th-term-assignment?node-id=85-5&starting-point-node-id=85%3A5)
  
  
  ***NON GOVERNMENTAL ORGANIZATION WEBSITE |***
