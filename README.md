@@ -8,7 +8,7 @@
 - 445 Schoemansdaal
 - Mpumalanga, SA
 - 071 190 9253
-- [222527269@mycput.ac.za](mailto:222527269@mycput.ac.za)
+- [matinisavunywalive@gmail,com](mailto:matinisavunywalive@gmail.com)
 
 
 
