@@ -8,7 +8,8 @@
 - 445 Schoemansdaal
 - Mpumalanga, SA
 - 071 190 9253
-- [222527269@mycput.ac.za](mailto:222527269@mycput.ac.za)
+- [matinisavunywalive@gmail,com](mailto:matinisavunywalive@gmail.com)
+- [Linkdln](https://www.linkedin.com/in/matinisa-vunywalive-b015942b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEswFGmZQSpeg9Nnnwzta7g%3D%3D)
 
 
 
@@ -58,6 +59,9 @@ Cape Peninsula University of Technology
  them manually. So the system operate by using RFID card for each student that whenever before entering a class, in order to get access, 
  they must tap their RFID card to the attendance system which marks them presents after tapping. The system components configuration was programed 
  behind the usage of C++, using the arduino IDE, along with necesary components which included ESP32, RFID card and some Duno Jumper wires for connection
+ 
+ ![IoT Attendance System](https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/IoT%20work%20progress%202.jpeg?raw=true)
+
 
   ***Campus Smart Clinic System |***
  ***February 2026-November 2026***
@@ -69,6 +73,9 @@ Cape Peninsula University of Technology
    side, where-as the student side is where appointments booking are done, and the admin side, is where the booked appointments are managed.
    The front-end of the system was creates using "***HTML*** for the page structure, "***CSS***" for the look and feel of the website and
     "***JavaScript***" for page inter-action. The framework used for front-end was "***BootStrap***" which provide necessary CSS and HTML elements. As for the back-end, members of the back-end decided to use "***Java***" programming language, which was chosen because of the ability to effectively communicate with the database. As for frame work, we used "***Java Springboot***" which is used handle complex configurations automatically. For the overal development of the system, as for an IDE, we used "***VS Code***" as it supports a majority of programming language and necessary plug-ins.
+    ![Clinic System](https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/Pulse-Up.png?raw=true)
+    [Click link to check Pulse-up UI](https://matinisa.github.io/Pulse-Up-Page/)
+
  
  ***ModuleTracker and Mark Calculator |***
  ***Feb 2025 - November 2025***
@@ -80,6 +87,7 @@ Cape Peninsula University of Technology
  Springboot framework as it facillitatews the provision of some HTML and CSS components.
 For the development of the database, we have decided to use python since it is of less complex syntax
 and as for the data manipulation, we used MongoDB
+![Module tracker](https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/Modelu%20tracker.png?raw=true)
 
  ***Pizza Management System Interface Design |***
  ***April 2025 - June 2025***
@@ -107,6 +115,9 @@ and as for the data manipulation, we used MongoDB
  CSS for the content design and JS for functionality. As i was specializing with the back-end part of the system
  which includes the design of the database, i decided to use the springboot framework, since it support and allows
  some system testing techniques.
+ ![NGO Website](https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/NGO%20UI.png?raw=true)
+
+[Click to checkout Website](https://matinisa.github.io/NGO-Website/)
 
  ##### Here's a Mock-interview Video link
  [![Mock-Interview Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/Eldk0j9GhsY)
