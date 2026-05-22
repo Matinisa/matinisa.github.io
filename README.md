@@ -10,8 +10,7 @@
 - 071 190 9253
 - [matinisavunywalive@gmail,com](mailto:matinisavunywalive@gmail.com)
 - [Linkdln](https://www.linkedin.com/in/matinisa-vunywalive-b015942b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEswFGmZQSpeg9Nnnwzta7g%3D%3D)
-
-[My CV](assert/Matinisa's CV (3).pdf)
+- 
 <a href="assert/Matinisa's CV (3).pdf" target="_blank">
    View CV
 </a>
