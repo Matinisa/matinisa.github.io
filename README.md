@@ -73,6 +73,7 @@ Cape Peninsula University of Technology
    The front-end of the system was creates using "***HTML*** for the page structure, "***CSS***" for the look and feel of the website and
     "***JavaScript***" for page inter-action. The framework used for front-end was "***BootStrap***" which provide necessary CSS and HTML elements. As for the back-end, members of the back-end decided to use "***Java***" programming language, which was chosen because of the ability to effectively communicate with the database. As for frame work, we used "***Java Springboot***" which is used handle complex configurations automatically. For the overal development of the system, as for an IDE, we used "***VS Code***" as it supports a majority of programming language and necessary plug-ins.
     ![Clinic System](https://github.com/Matinisa/matinisa.github.io/blob/main/Github%20portfolio%20artifacts/Pulse-Up.png?raw=true)
+    [Click link to check Pulse-up UI](https://matinisa.github.io/Pulse-Up-Page/)
 
  
  ***ModuleTracker and Mark Calculator |***
